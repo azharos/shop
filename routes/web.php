@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\AdminController;
 use App\Http\Controllers\HomeController;
 use Illuminate\Support\Facades\Route;
 
@@ -16,3 +17,6 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', [HomeController::class, 'index'])->name('myshop');
 Route::get('/shop/kategori', [HomeController::class, 'kategori_all'])->name('kategori.all');
+Route::get('/shop/sub-kategori', [HomeController::class, 'kategori_sub'])->name('kategori.sub');
+
+Route::get('/admin', [AdminController::class, 'index'])->name('admin');

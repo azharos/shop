@@ -15,4 +15,9 @@ class HomeController extends Controller
     {
         return view('home.kategori_all');
     }
+
+    public function kategori_sub()
+    {
+        return view('home.kategori_sub');
+    }
 }
