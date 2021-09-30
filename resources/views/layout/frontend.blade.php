@@ -82,7 +82,7 @@
             <div class="row align-items-center justify-content-between">
                 <div class="col-lg-3 d-none d-lg-block">
                     <div class="fs-4 text-white mb-1">
-                        <a href="" class="text-decoration-none text-white">
+                        <a href="{{ route('myshop') }}" class="text-decoration-none text-white">
                             <i class="fas fa-store"></i> Kang Konter
                         </a>
                     </div>

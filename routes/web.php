@@ -20,3 +20,4 @@ Route::get('/shop/kategori', [HomeController::class, 'kategori_all'])->name('kat
 Route::get('/shop/sub-kategori', [HomeController::class, 'kategori_sub'])->name('kategori.sub');
 
 Route::get('/admin', [AdminController::class, 'index'])->name('admin');
+Route::get('/admin/produk', [AdminController::class, 'produk'])->name('admin.produk');
