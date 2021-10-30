@@ -162,28 +162,148 @@
                         <div class="col-lg-10 mb-2">
                             <div class="row">
                                 <div class="col-lg-3 col-md-4 col-6 mb-3">
-                                    <img src="https://via.placeholder.com/500x200" alt="" class="img-fluid">
+                                    <div class="card">
+                                        <img src="https://via.placeholder.com/500x200" class="card-img-top">
+                                        <div class="card-body">
+                                            <div class="w-100 d-flex justify-content-between align-items-center">
+                                                <div class="kiri" style="font-size: 80%;">
+                                                    <p class="text-success mb-0 fw-bold">Nama Produk</p>
+                                                    <p class="mb-0">Rp. 0</p>
+                                                </div>
+                                                <div class="kanan">
+                                                    <a href="" class="btn btn-warning btn-sm">
+                                                        <i class="fas fa-cart-plus fs-6"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="col-lg-3 col-md-4 col-6 mb-3">
-                                    <img src="https://via.placeholder.com/500x200" alt="" class="img-fluid">
+                                    <div class="card">
+                                        <img src="https://via.placeholder.com/500x200" class="card-img-top">
+                                        <div class="card-body">
+                                            <div class="w-100 d-flex justify-content-between align-items-center">
+                                                <div class="kiri" style="font-size: 80%;">
+                                                    <p class="text-success mb-0 fw-bold">Nama Produk</p>
+                                                    <p class="mb-0">Rp. 0</p>
+                                                </div>
+                                                <div class="kanan">
+                                                    <a href="" class="btn btn-warning btn-sm">
+                                                        <i class="fas fa-cart-plus fs-6"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="col-lg-3 col-md-4 col-6 mb-3">
-                                    <img src="https://via.placeholder.com/500x200" alt="" class="img-fluid">
+                                    <div class="card">
+                                        <img src="https://via.placeholder.com/500x200" class="card-img-top">
+                                        <div class="card-body">
+                                            <div class="w-100 d-flex justify-content-between align-items-center">
+                                                <div class="kiri" style="font-size: 80%;">
+                                                    <p class="text-success mb-0 fw-bold">Nama Produk</p>
+                                                    <p class="mb-0">Rp. 0</p>
+                                                </div>
+                                                <div class="kanan">
+                                                    <a href="" class="btn btn-warning btn-sm">
+                                                        <i class="fas fa-cart-plus fs-6"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="col-lg-3 col-md-4 col-6 mb-3">
-                                    <img src="https://via.placeholder.com/500x200" alt="" class="img-fluid">
+                                    <div class="card">
+                                        <img src="https://via.placeholder.com/500x200" class="card-img-top">
+                                        <div class="card-body">
+                                            <div class="w-100 d-flex justify-content-between align-items-center">
+                                                <div class="kiri" style="font-size: 80%;">
+                                                    <p class="text-success mb-0 fw-bold">Nama Produk</p>
+                                                    <p class="mb-0">Rp. 0</p>
+                                                </div>
+                                                <div class="kanan">
+                                                    <a href="" class="btn btn-warning btn-sm">
+                                                        <i class="fas fa-cart-plus fs-6"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="col-lg-3 col-md-4 col-6 mb-3">
-                                    <img src="https://via.placeholder.com/500x200" alt="" class="img-fluid">
+                                    <div class="card">
+                                        <img src="https://via.placeholder.com/500x200" class="card-img-top">
+                                        <div class="card-body">
+                                            <div class="w-100 d-flex justify-content-between align-items-center">
+                                                <div class="kiri" style="font-size: 80%;">
+                                                    <p class="text-success mb-0 fw-bold">Nama Produk</p>
+                                                    <p class="mb-0">Rp. 0</p>
+                                                </div>
+                                                <div class="kanan">
+                                                    <a href="" class="btn btn-warning btn-sm">
+                                                        <i class="fas fa-cart-plus fs-6"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="col-lg-3 col-md-4 col-6 mb-3">
-                                    <img src="https://via.placeholder.com/500x200" alt="" class="img-fluid">
+                                    <div class="card">
+                                        <img src="https://via.placeholder.com/500x200" class="card-img-top">
+                                        <div class="card-body">
+                                            <div class="w-100 d-flex justify-content-between align-items-center">
+                                                <div class="kiri" style="font-size: 80%;">
+                                                    <p class="text-success mb-0 fw-bold">Nama Produk</p>
+                                                    <p class="mb-0">Rp. 0</p>
+                                                </div>
+                                                <div class="kanan">
+                                                    <a href="" class="btn btn-warning btn-sm">
+                                                        <i class="fas fa-cart-plus fs-6"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="col-lg-3 col-md-4 col-6 mb-3">
-                                    <img src="https://via.placeholder.com/500x200" alt="" class="img-fluid">
+                                    <div class="card">
+                                        <img src="https://via.placeholder.com/500x200" class="card-img-top">
+                                        <div class="card-body">
+                                            <div class="w-100 d-flex justify-content-between align-items-center">
+                                                <div class="kiri" style="font-size: 80%;">
+                                                    <p class="text-success mb-0 fw-bold">Nama Produk</p>
+                                                    <p class="mb-0">Rp. 0</p>
+                                                </div>
+                                                <div class="kanan">
+                                                    <a href="" class="btn btn-warning btn-sm">
+                                                        <i class="fas fa-cart-plus fs-6"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="col-lg-3 col-md-4 col-6 mb-3">
-                                    <img src="https://via.placeholder.com/500x200" alt="" class="img-fluid">
+                                    <div class="card">
+                                        <img src="https://via.placeholder.com/500x200" class="card-img-top">
+                                        <div class="card-body">
+                                            <div class="w-100 d-flex justify-content-between align-items-center">
+                                                <div class="kiri" style="font-size: 80%;">
+                                                    <p class="text-success mb-0 fw-bold">Nama Produk</p>
+                                                    <p class="mb-0">Rp. 0</p>
+                                                </div>
+                                                <div class="kanan">
+                                                    <a href="" class="btn btn-warning btn-sm">
+                                                        <i class="fas fa-cart-plus fs-6"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>

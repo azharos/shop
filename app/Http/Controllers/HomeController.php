@@ -20,4 +20,14 @@ class HomeController extends Controller
     {
         return view('home.kategori_sub');
     }
+
+    public function cara_pembayaran()
+    {
+        return view('home.cara_pembayaran');
+    }
+
+    public function checkout()
+    {
+        return view('home.checkout');
+    }
 }

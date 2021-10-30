@@ -112,34 +112,6 @@
         </div>
     </section>
 
-    <section class="w-100 py-3">
-        <div class="container">
-            <div class="w-100">
-                <!-- Swiper -->
-                <div class="swiper mySwiper">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <img src="https://i.picsum.photos/id/1040/1200/360.jpg?hmac=jUIpLkPfTmv0veRC5yxVtMekz0mhBb-u9cezcyJRN54"
-                                alt="" class="img-fluid">
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="https://i.picsum.photos/id/366/1200/360.jpg?hmac=HLQ5KB1sCdZ_42xW6n7inuzF48Zhi8M016Z0nYYEH54"
-                                alt="" class="img-fluid">
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="https://i.picsum.photos/id/842/1200/360.jpg?hmac=oK3P5JkCVSwW0poNNlMnpnsVvLP5GfNa0WgLwAO2Qps"
-                                alt="" class="img-fluid">
-                        </div>
-                        <div class="swiper-slide">
-                            <img src="https://i.picsum.photos/id/618/1200/360.jpg?hmac=Q14bIalju4XAR4TN5SB1FzR30TfBptJnxmsFkV1wK0I"
-                                alt="" class="img-fluid">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
     @yield('content')
 
     {{-- Footer --}}
@@ -219,16 +191,6 @@
     </script>
     <!-- Swiper JS -->
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-
-    <script>
-        const swiper1 = new Swiper(".mySwiper", {
-            autoplay: {
-                delay: 1800,
-                disableOnInteraction: false,
-            },
-            loop: true,
-        });
-    </script>
 
     @yield('js')
 </body>
